@@ -9,7 +9,7 @@ date: ""
 # About
 
 I'm a self-trained artist with a passion for sketching and portraiture in
-charcoal and graphite. From finger-drawings with a stray can of sauce on a freshly-painted
+charcoal and graphite. From finger-drawings on a freshly-painted
 wall, to lettering quotes in a skating rink and painting my shoes, art has been
 consistent with me for as long as I can remember. While I've tried several
 different styles and mediums, including quilling paper strips, origami, acrylic,
