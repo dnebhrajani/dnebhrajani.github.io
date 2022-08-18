@@ -1,11 +1,11 @@
 
 /* ----- Global settings ----------------------------------------------- {{{ */
-    
+
 :root {
   /* --- Colors --- */
 
   --background-color: #fff;
-  --background-image: linear-gradient(to bottom right, white, aqua, #6f21ed, aqua, white);
+
   --color-text: #1b2733;
   --color-text-secondary: #637282;
   --color-link: #0070e0;
@@ -110,11 +110,9 @@
 }
 
 @media (prefers-color-scheme: dark) {
-    
   :root {
     --background-color: #161313;
 
-    --background-image: linear-gradient(to bottom right,#3d0eab, #6f21ed, #2994ff, #6f21ed, #3d0eab);
     --color-text: #f7f5f2;
     --color-text-secondary: #9d9b99;
     --color-link: #2994ff;
@@ -165,23 +163,8 @@ body {
   padding: 0;
   padding-top: var(--title-margin-top);
   width: 100%;
-  background: var(--background-image);
-  background-size: 200% 200%;
-	animation: gradient 100s ease infinite;
-	height: 100vh;
-/*  background-color: var(--background-color);*/
-}
 
-@keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
+  background-color: var(--background-color);
 }
 
 @media print {

@@ -6,56 +6,19 @@ author-url: 'dnebhrajani.github.io'
 date: ""
 ---
 
-```cpp
-#include <bits/stdc++.h>
-#include <unordered_map>
+# About
 
-std::string mapping(std::string enc, std::string dec, std::string msg) {
-  std::unordered_map<char, char> map;
-  for (int i = 0; i < 94; ++i) {
-    map[enc[i]] = dec[i];
-  }
-  for (int i = 0; i < msg.length(); ++i) {
-    m sg[i] = map[msg[i]];
-  }
-  return msg;
-}
+I'm a self-trained artist with a passion for sketching and portraiture in
+charcoal and graphite. From finger-drawings with a stray can of sauce on a freshly-painted
+wall, to lettering quotes in a skating rink and painting my shoes, art has been
+consistent with me for as long as I can remember. While I've tried several
+different styles and mediums, including quilling paper strips, origami, acrylic,
+watercolour, ink, and a few others, there's something about being able to generate art
+with nothing more than a pencil that has an irresistable hold on me.
 
+My work in charcoal and graphite is centered on impressionalism and realism, with
+the occasional semi-abstract acrylic or watercolour.
 
-std::string rev_mapping(std::string enc, std::string dec, std::string enc_msg) {
-  std::unordered_map<char, char> map;
-  for (int i = 0; i < 94; ++i) {
-    map[dec[i]] = enc[i];
-  }
-  for (int i = 0; i < enc_msg.length(); ++i) {
-    enc_msg[i] = map[enc_msg[i]];
-  }
-  return enc_msg;
-}
-
-int main() {
-  std::string enc;
-  std::string dec;
-  char a;
-  for (int a = 33; a < 128; ++a) {
-    enc.push_back(a);
-    dec.push_back(a);
-  }
-  std::random_shuffle(dec.begin(), dec.end());
-  std::string msg;
-  std::cin >> msg;
-  std::cout << mapping(enc, dec, msg) << "\n";
-  std::string enc_msg = mapping(enc, dec, msg);
-  std::cout << rev_mapping(enc, dec, enc_msg) << "\n";
-}
-```
-
-
-
-This project provides CSS files and a template for using Pandoc[^pandoc] to
-generate standalone HTML files. It supports most features Pandoc Markdown has to
-offer, and some extras. The default look can be tweaked via CSS variables, and
-it does not need JavaScript, even for side notes.
 
 # Features
 
