@@ -1,8 +1,7 @@
 ---
-title: "Durga's Art Page"
-subtitle: "temporary subtitle"
-author: "Durga Nebhrajani"
-author-url: 'dnebhrajani.github.io'
+title: "Durga Nebhrajani"
+subtitle: "all art is but dirtying paper delicately"
+author: ""
 date: ""
 ---
 
@@ -20,45 +19,19 @@ My work in charcoal and graphite is centered on impressionalism and realism, wit
 the occasional semi-abstract acrylic or watercolour.
 
 
-# Features
+# Portraits
 
-A short list of headline features:
+![Glory days](IMG_4300.jpg)
 
-[^pandoc]:
-  {-} [Pandoc] is a "universal document converter." It is particularly good at
-  generating HTML and \(\LaTeX\) from Markdown.
+![Young Johnny Depp](IMG_384.jpg)
 
-- [Code blocks](features/#code-blocks), including:
-  - Syntax themes
-  - Line numbers and line highlights
-  - Extra wide and full-width options
-  - Captions
-- [Images and tables](features/#images-tables-and-captioned-code-blocks),
-  including:
-  - Extra wide and full-width options
-  - Captions
-- [Side notes and margin notes](features/#side-notes-and-margin-notes)
-- [Floating table of contents](features/#table-of-contents)
-- [\(\LaTeX\) math](features/#math), rendered via [\(\KaTeX\)][KaTeX] in
-  the browser
-- Dark mode, based on the user's default color scheme preference
+![](IMG_3100.jpg)
 
-For the complete feature set, see the documentation. You might also want to
-view the "kitchen sink" page that is useful when developing, or the source code:
-
-[→ Documentation](features/)\
-[→ Kitchen Sink](kitchen-sink/)\
-[→ Source on GitHub](https://github.com/jez/pandoc-markdown-css-theme)
-
-The theme is fully responsive, including phones, tablets, laptops, and wide
-desktop screens. Side notes and the table of contents display inline on small
-screen sizes, and in the margins on wide enough screens. Extra wide images,
-tables, and code blocks shrink when space isn't available. CSS `@media print`
-styles declare first-class print styles.
+![](IMG_2421.jpg)
 
 :::{.wide .extra-wide}
 
-![Only right margin at tablet width, and no margins on mobile](cat.jpg)
+![Kartik Aryan](IMG_4213.jpg)
 
 :::
 
