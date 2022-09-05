@@ -25,7 +25,7 @@ _2022-08-21_
 
 ![Glory days](IMG_4300.jpg)
 
-[See more ->](art_website/rest-art)
+[See more ->](art_website/art-gallery)
 
 The source code is extremely tweakable.[^tweakable] A small set of CSS variables
 control a large number of font and color settings: you don't have to hunt down
