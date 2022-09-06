@@ -34,6 +34,10 @@ my attempts are below - see if they spark _your_ intuition.
 
 :::
 
+## Impressionalism
+
+
+
 [^glory]:
   {-} _2022-08-21_  
   This artwork has easily been the hardest I've ever made. It totalled about
@@ -52,6 +56,7 @@ my attempts are below - see if they spark _your_ intuition.
 
 [^johnny]:
   {-} _2022-06-12_
+  
   
   
 
