@@ -10,7 +10,7 @@ date: "2022-09-06"
 The complexity of a face is incredibly difficult to encapsulate within a drawing.
 Expressions are fluid and often very subtle; the factors that affect how we
 interpret them rely heavily on intuition. Sparking the same intuition in the
-viewer with a drawing is hard and, when succesful, frequently  ends up being
+viewer with a drawing is difficult and, when successful, frequently ends up being
 accidental.
 
 I've tried my hand at portraiture in both realism and impressionalism. Some of
@@ -52,10 +52,15 @@ my attempts are below - see if they spark _your_ intuition.
   then began with the detailing, starting, as always, with the eyes.
    My reason for choosing this reference, from many others of similarly aged people,
   was the way it distinctly bore reminiscence. The slight touch of sadness in
-  the eyes, countered by the furrowed brows, made for a challenge I had to try out. 
+  the eyes, countered by the furrowed brows, made for a challenge I had to attempt. 
 
 [^johnny]:
   {-} _2022-06-12_
+  A comparitively simpler sketch, this didn't take very long to finish. The
+  materials I used were a soft charcoal pencil, an 8B graphite pencil and an
+  eraser. I began with the general outline of the face and shoulders, and made
+  basic rough lines for the features. Starting from the eyes, I detailed first the
+  face, then the hair, and finally, the suit. 
   
   
   
