@@ -19,11 +19,10 @@ my attempts are below - see if they spark _your_ intuition.
 ## Realism  
 [^glory]
 
-![Glory days  
-[^johnny]](IMG_4300.jpg)
+![Glory days](IMG_4300.jpg)
+[^johnny]
 
-![Young Johnny Depp
-[^solace]](IMG_3847.jpg)
+![Young Johnny Depp](IMG_3847.jpg)[^solace]
 
 ![Solace](IMG_3100.jpg)
 
@@ -61,7 +60,8 @@ my attempts are below - see if they spark _your_ intuition.
   I used were a soft charcoal pencil, an 8B graphite pencil and an eraser. I began
   with the general outline of the face and shoulders, and made basic rough shapes
   for the features. Starting from the eyes, I detailed first the face, then the hair,
-  and finally, the suit. It fascinated me that despite Johnny Depp towards the
+  and finally, the suit.
+  It fascinated me that despite Johnny Depp towards the
   beginning of his career differing so greatly from the way he is today, over all
   these years, his eyes remain unchanged. It took me several attempts to get them
   right, simply because until they were made correctly, the sketch just didn’t look
@@ -77,11 +77,12 @@ my attempts are below - see if they spark _your_ intuition.
   the abdominal muscles, sketching the creases in the jeans and then building up
   to the face. Detailing the guitar last, I took great care to correctly replicate
   the shadows and reflections in the strings. This drawing proved to be one of the
-  most challenging I have ever attempted. The expression was extremely difficult
-  to get right. The relaxed and yet sharp jaw, alongside the eyebrow proved to be the
-  most defining features of the face - and the easiest to mess up.
-  The subtlety of this artwork, however, lies in the smile.
-  Relaxed, very slight, and yet, without it the whole drawing loses its charm. 
+  most challenging I have ever attempted.
+  The expression was extremely difficult to get right. The relaxed and yet
+  sharp jaw, alongside the eyebrow proved to be the most defining features of the
+  face - and the easiest to mess up. The subtlety of this artwork, however, lies
+  in the smile. Relaxed, very slight, and yet, without it the whole drawing loses
+  its charm. 
   
 
 
