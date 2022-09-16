@@ -1,0 +1,37 @@
+---
+title: "Durga Nebhrajani"
+subtitle: "all art is but dirtying paper delicately"
+date: ""
+---
+
+# About
+
+I'm a self-trained artist with a passion for sketching and portraiture in
+charcoal and graphite. From finger-drawings on a freshly-painted
+wall, to lettering quotes in a skating rink and painting my shoes, art has been
+consistent with me for as long as I can remember. While I've tried several
+different styles and mediums, including quilling paper strips, origami, acrylic,
+watercolour, ink, and a few others, there's something about being able to generate art
+with nothing more than a pencil that has an irresistable hold on me.
+
+My work in charcoal and graphite is centered on impressionalism and realism, with
+the occasional semi-abstract acrylic or watercolour.
+
+
+# Art Gallery  
+
+_2022-08-21_
+
+![Glory days](IMG_4300.jpg)
+
+[See more ->](art-gallery)
+
+# Blog
+
+[Writing](blog/#Writing)  
+[Programming](blog/#Code) 
+
+# Contact
+
+[durga.nebhrajani@gmail.com](mailto:durga.nebhrajani@gmail.com)
+
