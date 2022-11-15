@@ -24,7 +24,7 @@ _2022-08-21_
 
 ![Glory days](IMG_4300.jpg)
 
-[See more ->](art-gallery)
+[See more →](art-gallery)
 
 # Blog
 
