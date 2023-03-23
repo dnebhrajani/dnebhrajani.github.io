@@ -22,3 +22,22 @@ are always welcome.
 <p class="signoff">
 </p>
 [Reality]: https://docs.google.com/document/d/1mbvBhJou2VEBAg8GNN9bORRpQ0rMXCZBD9vz2BLxvbs/edit?usp=sharing
+
+
+# Programming
+
+```{.c .numberLines}
+int main(void) {
+    char *pc;
+    long x;
+    x = 0x554f5945564f4c49;
+    pc = &x;
+    for(char *i = pc; i < pc+8; ++i) {
+        printf("%c", *i);
+        if(i == pc || i == pc+4 || i == pc+7) {
+            printf(" ");
+        }	      
+    }
+    printf(":)\n");
+}	
+```

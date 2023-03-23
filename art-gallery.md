@@ -16,7 +16,6 @@ accidental.
 I've tried my hand at portraiture in both realism and impressionalism. Some of
 my attempts are below - see if they spark _your_ intuition.
 
-## Realism  
 [^glory]
 
 ![Glory days](IMG_4300.jpg)[^johnny]
@@ -27,13 +26,19 @@ my attempts are below - see if they spark _your_ intuition.
 
 ![Lily Collins](IMG_2421.jpg)
 
+![Tanner Buchanan (portrait)](IMG_4779.jpg)
+
+![Tanner Buchanan](IMG_4813.jpg)
+
 :::{.wide .extra-wide}
 
-![Kartik Aryan](IMG_4213.jpg)
+![Kartik Aaryan](IMG_4213.jpg)
 
 :::
 
-## Impressionalism
+![My eye](IMG_4980.jpg)
+
+
 
 
 
