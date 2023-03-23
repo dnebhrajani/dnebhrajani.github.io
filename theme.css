@@ -1,4 +1,3 @@
-
 /* ----- Global settings ----------------------------------------------- {{{ */
 
 :root {
@@ -441,7 +440,7 @@ span.mark.purple, mark.purple { background-color: var(--highlight-purple); }
 .signoff {
   margin-top: calc(4 * var(--line-height));
   margin-bottom: calc(4 * var(--line-height));
-}
+ }
 
 /* Pandoc utility classes */
 span.smallcaps{ font-variant: small-caps; }
@@ -496,7 +495,7 @@ pre code {
   line-height: var(--line-height);
   margin: initial;
   padding: initial;
-  border: initial;
+   border: initial;
   border-radius: initial;
 }
 
