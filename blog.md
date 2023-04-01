@@ -27,6 +27,8 @@ are always welcome.
 # Programming
 
 ```{.c .numberLines}
+#include <stdio.h>
+
 int main(void) {
     char *pc;
     long x;
@@ -41,3 +43,7 @@ int main(void) {
     printf(":)\n");
 }	
 ```
+
+
+[← Return home](index)
+

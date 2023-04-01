@@ -46,7 +46,7 @@ my attempts are below - see if they spark _your_ intuition.
   {-} _2022-08-21_  
   This artwork has easily been the hardest I've ever made. It totalled about
   twelve hours of nearly continuous work, spread over less than a day.
-  Having been  my first attempt at drawing somebody over the age of forty,
+  Having been my first attempt at drawing somebody over the age of forty,
   it took a lot longer than I expected.
   The materials I used were charcoal pencils (soft and medium-soft), a
   10B graphite pencil, blending stumps, kneaded eraser, a white colour
@@ -89,8 +89,6 @@ my attempts are below - see if they spark _your_ intuition.
   of the face - and the easiest to mess up. The subtlety of this artwork,
   however, lies in the smile. Relaxed, very slight, and yet, without it
   the whole drawing loses its charm.
-
-
 
 
 

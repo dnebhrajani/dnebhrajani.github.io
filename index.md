@@ -29,7 +29,7 @@ _2022-08-21_
 # Blog
 
 [Writing](blog)  
-[Programming](blog/#Code) 
+[Programming](blog) 
 
 # Contact
 
