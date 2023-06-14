@@ -27,8 +27,7 @@ _2022-08-21_
 [See more →](art-gallery)
 
 # Blog
-
-[Writing](blog)  
+ 
 [Programming](blog) 
 
 # Contact
