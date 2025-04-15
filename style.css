@@ -1,0 +1,201 @@
+/* Global Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;
+    background: linear-gradient(to bottom right, #2b2b2b, #000000);
+    color: white;
+    padding: 1.5rem;
+    max-width: 960px;
+    margin: auto;
+    position: relative;
+  }
+  
+  /* Header */
+  header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .subtitle {
+    font-style: italic;
+    font-size: 1.1rem;
+    color: #ddd;
+  }
+  
+  /* Profile Picture - Circular Top Right */
+  header::after {
+    content: "";
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 80px;
+    height: 80px;
+    background: url('pfp.jpg') no-repeat top center;
+    background-size: 110%;
+    border-radius: 50%;
+    border: 2px solid white;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  }
+  
+  /* Navigation */
+  #TOC {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  #TOC strong {
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  #TOC a {
+    color: #D9381E;
+    text-decoration: none;
+  }
+  
+  #TOC a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Main Sections */
+  main h1, main h2 {
+    font-size: 1.8rem;
+    border-bottom: 2px solid #aaa;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.3rem;
+    color: #ffffff;
+  }
+  
+  p, li {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* Images */
+  figure {
+    margin: 1rem 0;
+    text-align: center;
+  }
+  
+  figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+  }
+  
+  figcaption {
+    font-size: 0.9rem;
+    color: #ccc;
+    margin-top: 0.5rem;
+  }
+  
+  /* Resume Button */
+  a[href$=".pdf"] {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.6rem 1.2rem;
+    background-color: #D9381E;
+    color: white;
+    border-radius: 0.4rem;
+    text-decoration: none;
+  }
+  
+  a[href$=".pdf"]:hover {
+    background-color: #B12F19;
+  }
+  
+  /* Contact */
+  #contact a {
+    color: #D9381E;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  #contact a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Text Analyzer Section */
+  #analyzer {
+    margin-top: 3rem;
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 1rem;
+  }
+  
+  #analyzer textarea {
+    width: 100%;
+    height: 200px;
+    padding: 1rem;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-radius: 10px;
+    resize: vertical;
+    color: white;
+    background-color: #1e1e1e;
+  }
+  
+  
+  .analyzer-table {
+    width: 100%;
+    margin-top: 1.5rem;
+    border-collapse: collapse;
+    background-color: #2a2a2a;
+    border: 1px solid #555;
+    color: white;
+  }
+  
+  .analyzer-table th,
+  .analyzer-table td {
+    padding: 0.8rem;
+    border: 1px solid #444;
+    text-align: left;
+  }
+  
+  .analyzer-table th {
+    background-color: #444;
+    color: #D9381E;
+  }
+  
+  /* Responsive */
+  @media (max-width: 600px) {
+    body {
+      padding: 1rem;
+    }
+  
+    .title {
+      font-size: 2rem;
+    }
+  
+    header::after {
+      width: 60px;
+      height: 60px;
+    }
+  
+    main h1, main h2 {
+      font-size: 1.5rem;
+    }
+  
+    #analyzer {
+      padding: 1rem;
+    }
+  }
