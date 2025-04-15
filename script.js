@@ -73,3 +73,34 @@ function analyzeText() {
     appendGroupCounts("Indefinite Articles", articleCounts);
   }
   
+  // ---------------------------------------------
+  // Click/View Logging Script
+  // ---------------------------------------------
+  
+  function getElementType(element) {
+    if (!element) return 'unknown';
+  
+    if (element.tagName === 'IMG') return 'image';
+    if (element.tagName === 'A') return 'link';
+    if (element.tagName === 'TEXTAREA' || element.tagName === 'INPUT') return 'text';
+    if (element.tagName === 'SELECT') return 'drop-down';
+    if (element.tagName === 'BUTTON') return 'button';
+    if (element.tagName.match(/^H[1-6]$/)) return 'heading';
+  
+    return element.tagName.toLowerCase();
+  }
+  
+  // Log the view on page load
+  window.addEventListener('load', () => {
+    const timestamp = new Date().toISOString();
+    console.log(`${timestamp} , view , page`);
+  });
+  
+  // Log clicks on any element
+  document.addEventListener('click', (e) => {
+    const timestamp = new Date().toISOString();
+    const type = 'click';
+    const objectType = getElementType(e.target);
+    console.log(`${timestamp} , ${type} , ${objectType}`);
+  });
+  

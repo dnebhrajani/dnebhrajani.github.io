@@ -199,3 +199,8 @@
       padding: 1rem;
     }
   }
+
+  #analyzer h1,
+#analyzer h2 {
+  border-bottom: none;
+}
