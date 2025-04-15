@@ -66,27 +66,24 @@ function analyzeText() {
   }
   
   function getElementType(element) {
-    if (!element) return 'unknown';
-  
     if (element.tagName === 'IMG') return 'image';
-    if (element.tagName === 'A') return 'link';
-    if (element.tagName === 'TEXTAREA' || element.tagName === 'INPUT') return 'text';
+    if (element.tagName === 'A') return 'cv';
+    if (element.tagName === 'TEXTAREA' || element.tagName === 'INPUT') return 'textbox';
     if (element.tagName === 'SELECT') return 'drop-down';
     if (element.tagName === 'BUTTON') return 'button';
     if (element.tagName.match(/^H[1-6]$/)) return 'heading';
-  
     return element.tagName.toLowerCase();
   }
   
   window.addEventListener('load', () => {
     const timestamp = new Date().toISOString();
-    console.log(`${timestamp} , view , page`);
+    console.log(` ${timestamp}, type: view, location: page`);
   });
   
   document.addEventListener('click', (e) => {
     const timestamp = new Date().toISOString();
     const type = 'click';
     const objectType = getElementType(e.target);
-    console.log(`${timestamp} , ${type} , ${objectType}`);
+    console.log(`${timestamp}, type: ${type}, location: ${objectType}`);
   });
   
